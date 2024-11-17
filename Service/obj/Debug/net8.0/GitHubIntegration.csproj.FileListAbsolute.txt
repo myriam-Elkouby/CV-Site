@@ -1,0 +1,12 @@
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\GitHubIntegration.csproj.AssemblyReference.cache
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\GitHubIntegration.GeneratedMSBuildEditorConfig.editorconfig
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\GitHubIntegration.AssemblyInfoInputs.cache
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\GitHubIntegration.AssemblyInfo.cs
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\GitHubIntegration.csproj.CoreCompileInputs.cache
+G:\PractyCode\cvSite\CVsite\Service\bin\Debug\net8.0\GitHubIntegration.deps.json
+G:\PractyCode\cvSite\CVsite\Service\bin\Debug\net8.0\GitHubIntegration.dll
+G:\PractyCode\cvSite\CVsite\Service\bin\Debug\net8.0\GitHubIntegration.pdb
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\GitHubIntegration.dll
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\refint\GitHubIntegration.dll
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\GitHubIntegration.pdb
+G:\PractyCode\cvSite\CVsite\Service\obj\Debug\net8.0\ref\GitHubIntegration.dll
